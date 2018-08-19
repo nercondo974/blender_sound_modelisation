@@ -13,8 +13,8 @@ rayon_sphere = 1
 delta_l = math.pi / taille_section
 delta_e = (2 * math.pi) / nombre_section
 
-filename = "PaolaBosco2018_07_28_11_09_46.wav"
-filepath = "/home/henrion/Dropbox" 
+filename = "file.wav"
+filepath = "path" 
 
 ### Méthodes
 def recupFrequence(spectres):
